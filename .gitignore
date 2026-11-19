@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+
+# Artefactos y reportes de Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.last-run.json
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs y depuración
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
