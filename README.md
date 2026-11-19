@@ -15,7 +15,7 @@ Este repositorio contiene la resolución integral de las cuatro etapas del desaf
 
 ```text
 Challenge-Farmatodo/
-├── entregables/                        # 📄 ENTREGABLES DOCUMENTALES (Puntos 2 y 3)
+├── entregables/                        #  ENTREGABLES DOCUMENTALES (Puntos 2 y 3)
 │   ├── Reporte_QA_UX_Farmatodo.docx    # Documento formal con evidencias y auditoría UX
 │   └── ReporteDeFallas.md              # Reporte técnico de bugs en Markdown
 ├── pages/
