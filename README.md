@@ -1,4 +1,4 @@
-**Candidato:** Cecilia Elizabeth Tolentino  
+**Candidata:** Cecilia Elizabeth Tolentino  
 
 **Stack Tecnológico:** TypeScript, Playwright, Node.js (`tsx`), Page Object Model (POM) & Principios SOLID.
 
