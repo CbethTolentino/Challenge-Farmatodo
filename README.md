@@ -43,8 +43,7 @@ Instalar las dependencias del proyecto:Bash npm install
 Instalar los navegadores de Playwright (si es la primera ejecución):Bash npx playwright install
  Guía de Ejecución
 1. Ejecutar Pruebas Automatizadas (Punto 1 — Playwright)
-La suite incluye escenarios funcionales y casos de borde (edge cases) diseñados para validar tanto el conteo estándar como fallos reales de normalización en wordcounter.net.Ejecutar todos los tests en modo headless (segundo plano):Bash npx playwright test
-Ejecutar los tests visualizando el navegador en vivo:Bash npx playwright test --headed
+La suite incluye escenarios funcionales y casos de borde (edge cases) diseñados para validar tanto el conteo estándar como fallos reales de normalización en wordcounter.net. Ejecutar todos los tests:Bash npm run tests
 Generar el reporte resumen en allure:Bash npm run reporte    
 (Este reporte detalla cuántos escenarios se ejecutaron, cuántos pasaron, cuántos fallaron y la traza/captura exacta del error).
 2. Ejecutar el Algoritmo Contador de Frecuencia (Punto 4 — TypeScript)
